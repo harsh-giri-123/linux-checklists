@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Linux Security Audit Automation Tool
 
 A terminal-based tool to audit, harden, and report Linux system security with modular check scripts and TUI interface.
@@ -109,3 +110,7 @@ The main script combines all results into:
 ## Disclaimer
 
 Use at your own risk. This tool is for educational and self-audit purposes. Always backup your system before applying hardening actions.
+=======
+# linux-checklists
+modular linux security check scripts
+>>>>>>> origin/main
